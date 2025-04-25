@@ -5,7 +5,7 @@ All projects available upon request, please just send me your "Collaborator" use
 
 ### Current Projects
 
-#### C# Microservice Generation Market Data
+#### C# Microservice Generating Market Data
 
 Using ASP.NET to implement Producers and Consumers and generating market data that is persisted to Kafka topics and an underlying database implementation.
 
